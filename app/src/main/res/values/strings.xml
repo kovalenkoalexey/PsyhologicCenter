@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PsyhologicCenter_5</string>
+    <string name="contDescription">sales</string>
+    <string name="contacts_text">Контакты</string>
+    <string name="about_text">Про нас</string>
+    <string name="main_scene_text">Главная</string>
+    <string name="logo_of_app1">Courses</string>
+    <string name="logo_of_app2">App</string>
+    <string name="category_game_text">Игры</string>
+    <string name="course_start_date">Старт обучения</string>
+    <string name="course_level">Уровень</string>
+    <string name="clear_cart">Очистить корзину</string>
+    <string name="slogan_2">Психологическая помощь в твоем городе</string>
+    <string name="slogan">В Центре психологической помощи Ваши проблемы Вам помогут решить квалифицированные специалисты</string>
+    <string name="adress">г. Воронеж Ленинский проспект, ххх тел. 322-223-322</string>
+    <string name="course_desc">За программу вы изучите построение графических приложений под ПК, разработку веб сайтов на основе Java Spring Boot, изучите построение полноценных Андроид приложений и отлично изучите сам язык Джава!</string>
+</resources>
