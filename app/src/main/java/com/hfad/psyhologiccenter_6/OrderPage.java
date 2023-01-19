@@ -1,8 +1,6 @@
-package com.hfad.psyhologiccenter_5;
+package com.hfad.psyhologiccenter_6;
 
 /*import androidx.*;*/
-
-import static com.hfad.psyhologiccenter_5.CenterActivity.courseList;
 
 import android.content.Intent;
 import android.os.Bundle;

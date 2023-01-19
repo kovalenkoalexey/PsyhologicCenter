@@ -1,4 +1,4 @@
-package com.hfad.psyhologiccenter_5;
+package com.hfad.psyhologiccenter_6;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -10,10 +10,6 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 /*import androidx.*;*/
-
-import com.hfad.psyhologiccenter_5.MainActivity;
-import com.hfad.psyhologiccenter_5.R;
-import com.hfad.psyhologiccenter_5.Category;
 
 import java.util.List;
 

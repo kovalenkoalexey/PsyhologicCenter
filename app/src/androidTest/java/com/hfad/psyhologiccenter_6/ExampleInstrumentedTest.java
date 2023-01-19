@@ -1,4 +1,4 @@
-package com.hfad.psyhologiccenter_5;
+package com.hfad.psyhologiccenter_6;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -20,6 +20,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.hfad.psyhologiccenter_5", appContext.getPackageName());
+        assertEquals("com.hfad.psyhologiccenter_6", appContext.getPackageName());
     }
 }

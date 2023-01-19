@@ -1,4 +1,4 @@
-package com.hfad.psyhologiccenter_5;
+package com.hfad.psyhologiccenter_6;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

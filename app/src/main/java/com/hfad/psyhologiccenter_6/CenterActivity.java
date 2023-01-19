@@ -1,4 +1,4 @@
-package com.hfad.psyhologiccenter_5;
+package com.hfad.psyhologiccenter_6;
 
 /*import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -13,10 +13,10 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.hfad.psyhologiccenter_5.CategoryAdapter;
-import com.hfad.psyhologiccenter_5.CourseAdapter;
-import com.hfad.psyhologiccenter_5.Category;
-import com.hfad.psyhologiccenter_5.Course;
+import com.hfad.psyhologiccenter_6.CategoryAdapter;
+import com.hfad.psyhologiccenter_6.CourseAdapter;
+import com.hfad.psyhologiccenter_6.Category;
+import com.hfad.psyhologiccenter_6.Course;
 
 import java.util.ArrayList;
 import java.util.Arrays;
